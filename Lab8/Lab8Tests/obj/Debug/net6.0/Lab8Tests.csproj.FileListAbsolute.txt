@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\obj\Debug\net6.0\Lab8Tests.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\obj\Debug\net6.0\Lab8Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\obj\Debug\net6.0\Lab8Tests.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\obj\Debug\net6.0\Lab8Tests.AssemblyInfo.cs
+C:\Users\justi\source\repos\CPEN223\Lab8\Lab8Tests\obj\Debug\net6.0\Lab8Tests.csproj.CoreCompileInputs.cache
