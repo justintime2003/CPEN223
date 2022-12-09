@@ -32,7 +32,7 @@ namespace Lab7
                     stack.Push(item);
                 }
                 //Console.WriteLine("Reversed Stack: "); 
-                foreach (int item in reversed) 
+                foreach (int item in reversed)
                 {
                     Console.WriteLine(item);
                 }
@@ -48,6 +48,17 @@ namespace Lab7
                 Reverse(stack, reversed);
             }
 
+            //// Base case: return if the stack is empty
+            //if (stack.Count == 0) return;
+
+            //// Recursive case: pop the top element from the stack and store it in a variable
+            //int top = stack.Pop();
+
+            //// Recursively reverse the remaining elements in the stack
+            //Reverse(stack, reversed);
+
+            //// Push the top element onto the reversed stack
+            //reversed.Push(top);
         }
 
         /// <summary>
